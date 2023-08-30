@@ -1,4 +1,4 @@
-# Telangana-Growth-Analysis
+
 ![1](https://github.com/Monish-07/Telangana-Growth-Analysis/assets/95215581/f1d9985e-e497-4dab-8cdd-4175c03eee58)
 ![2](https://github.com/Monish-07/Telangana-Growth-Analysis/assets/95215581/d1b212ee-9776-4e3b-b772-e58538d9c95d)
 ![3](https://github.com/Monish-07/Telangana-Growth-Analysis/assets/95215581/2c27f786-2aa5-4f00-b0ad-edb9561b6960)
